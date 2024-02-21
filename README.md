@@ -25,7 +25,7 @@ I am completing this project individually.
 ## Part 2: Datasets
 For this project, I will be using the NSynth dataset provided by Google Magenta.
 
-Dataset: https://magenta.tensorflow.org/datasets/nsynth
+Dataset: https://magenta.tensorflow.org/datasets/nsynth <br>
 Original GANSynth post: https://magenta.tensorflow.org/gansynth
 
 I mentioned in the previous section that I would be amassing a dataset of my own by combining existing accessible sample packs. However, in my research of other audio synthesis research projects, I learned that Google Magenta's NSynth dataset is available for use. This dataset was originally used by Magenta for their 2019 project GANSnyth, which achieved a very similar goal of an audio generation from trained audio samples. 
